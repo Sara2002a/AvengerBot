@@ -130,11 +130,11 @@ dmypy.json
 .pyre/
 
 # pyrogram session
-StellaSession.session
-Stella/StellaSession.session
+AvengerSession.session
+Avenger/AvengerSession.session
 test.py
-Stella/config.py 
-Stella/plugins/StellaGban.py
+Avenger/config.py 
+Avenger/plugins/StellaGban.py
 # Ignore dynaconf secret files
 .secrets.*
 config.toml
