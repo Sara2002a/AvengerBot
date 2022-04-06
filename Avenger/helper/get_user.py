@@ -49,7 +49,7 @@ async def get_user_id(message):
             return False
             
         user = message.command[1]
-        user_info = await Avenger.get_users(
+        user_info = await AvengerCli.get_users(
             user_ids=user
         )
         
