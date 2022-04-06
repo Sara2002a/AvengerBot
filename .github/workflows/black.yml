@@ -23,6 +23,6 @@ jobs:
           labels: ⚫️ black
           branch: autofix
           committer: TeamAvengerBot<103058442+TeamAvengerBot@users.noreply.github.com>
-          author: ${{ github.actor }} <${{ github.actor }}@sakuraempire.net>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: true
           delete-branch: true
